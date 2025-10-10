@@ -108,10 +108,3 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 📧 TG: [https://t.me/nikitakargaltsev](https://t.me/nikitakargaltsev)
 
 💻 GitHub: [https://github.com/KargaltsevNikita](https://github.com/KargaltsevNikita) 
-
----
-
-## ⭐ Поддержи проект
-
-Если тебе понравилось приложение —  
-⭐ поставь звезду на репозитории, это мотивирует развивать проект дальше!
