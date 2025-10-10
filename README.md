@@ -105,8 +105,8 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 ## 🧠 Автор
 
 **Каргальцев Никита**  
-📧 TG:  
-💻 GitHub: [https://github.com/<твой_логин>](https://github.com/<твой_логин>)
+📧 TG: [https://t.me/nikitakargaltsev](https://t.me/nikitakargaltsev)
+💻 GitHub: [https://github.com/KargaltsevNikita](https://github.com/KargaltsevNikita) 
 
 ---
 
