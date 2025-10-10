@@ -39,8 +39,8 @@
 
 ### 1️⃣ Клонировать репозиторий
 ```bash
-git clone https://github.com/KargaltsevNikita/severstal-dashboard.git
-cd severstal-dashboard
+git clone https://github.com/KargaltsevNikita/Yandex-Masterskya.git
+cd Yandex-Masterskya/Severstal/severstal-dashboard
 ```
 
 ### 2️⃣ Собрать Docker-образ
