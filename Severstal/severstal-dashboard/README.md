@@ -39,7 +39,7 @@
 
 ### 1️⃣ Клонировать репозиторий
 ```bash
-git clone https://github.com/<твой_логин>/severstal-dashboard.git
+git clone https://github.com/KargaltsevNikita/severstal-dashboard.git
 cd severstal-dashboard
 ```
 
