@@ -1,0 +1,47 @@
+# --- Системные и IDE-файлы ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.DS_Store
+*.log
+*.tmp
+
+# --- Jupyter и ноутбуки ---
+*.ipynb
+.ipynb_checkpoints/
+notebooks/
+experiments/
+research/
+
+# --- Данные ---
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.parquet
+*.json
+
+# --- Git и документация ---
+.git/
+.gitignore
+README.md
+LICENSE
+*.md
+
+# --- Кэш и временные файлы ---
+.cache/
+.env
+venv/
+.env/
+.idea/
+.vscode/
+
+# --- Прочее ---
+*.bak
+*.swp
+*.old
