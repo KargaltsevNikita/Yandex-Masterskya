@@ -73,16 +73,6 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Пример интерфейса
-
-```
-📊 Выбор данных → 🔍 Анализ → 🤖 Кластеризация → 🌳 Интерпретация
-```
-
-<img src="https://user-images.githubusercontent.com/your-screenshot-id.png" width="800"/>
-
----
-
 ## 🧱 Пример Dockerfile
 
 ```dockerfile
