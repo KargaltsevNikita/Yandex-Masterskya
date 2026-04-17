@@ -1,0 +1,9 @@
+streamlit
+ultralytics>=8.2.0
+paddlepaddle>=3.0.0
+paddleocr>=3.0.0
+pandas
+openpyxl
+matplotlib
+tqdm
+pyyaml
